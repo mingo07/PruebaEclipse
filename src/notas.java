@@ -64,9 +64,9 @@ public class notas {
 	// metodo para calcular nota
 	
 	public void Calculonotas() {
-		acu1= uf1*0.35;
-		acu2 = uf2 * 0.35;
-		acu3 = uf3 * 0.30;
+		acu1= uf1*0.30;
+		acu2 = uf2 * 0.25;
+		acu3 = uf3 * 0.45;
 		
 		def = acu1 + acu2+ acu3;
 		
