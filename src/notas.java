@@ -88,12 +88,12 @@ public class notas {
 		System.out.println(" nota1 = " + uf1);
 		System.out.println(" nota2 = " + uf2);
 		System.out.println(" nota3 = " + uf3);
-		System.out.println(" nota3 = " + uf4);
+		System.out.println(" nota4 = " + uf4);
 		
 		System.out.println(" acumuado 1 = "+ acu1);
 		System.out.println(" acumuado 2 = "+ acu2);
 		System.out.println(" acumuado 3 = "+ acu3);
-		System.out.println(" acumuado 3 = "+ acu4);
+		System.out.println(" acumuado 4 = "+ acu4);
 		
 		System.out.println(" nota definitiva es = "+ def);
 		
